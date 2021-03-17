@@ -1,0 +1,34 @@
+Error Log for Application IT232_Williams_Unit7_Project_C.exe
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FirstDoThis
+
+
+
+
+
+
+
+
+
+ThenDoThat
+
+
+
+NullReferenceException Error Occured.
+Object reference not set to an instance of an object.
