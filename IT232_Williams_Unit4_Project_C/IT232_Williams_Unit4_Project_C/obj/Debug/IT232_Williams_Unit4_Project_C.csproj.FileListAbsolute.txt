@@ -1,7 +1,0 @@
-C:\Users\Celena\source\repos\IT232_Williams_Unit4_Project_C\IT232_Williams_Unit4_Project_C\bin\Debug\IT232_Williams_Unit4_Project_C.exe.config
-C:\Users\Celena\source\repos\IT232_Williams_Unit4_Project_C\IT232_Williams_Unit4_Project_C\bin\Debug\IT232_Williams_Unit4_Project_C.exe
-C:\Users\Celena\source\repos\IT232_Williams_Unit4_Project_C\IT232_Williams_Unit4_Project_C\bin\Debug\IT232_Williams_Unit4_Project_C.pdb
-C:\Users\Celena\source\repos\IT232_Williams_Unit4_Project_C\IT232_Williams_Unit4_Project_C\obj\Debug\IT232_Williams_Unit4_Project_C.csprojResolveAssemblyReference.cache
-C:\Users\Celena\source\repos\IT232_Williams_Unit4_Project_C\IT232_Williams_Unit4_Project_C\obj\Debug\IT232_Williams_Unit4_Project_C.csproj.CoreCompileInputs.cache
-C:\Users\Celena\source\repos\IT232_Williams_Unit4_Project_C\IT232_Williams_Unit4_Project_C\obj\Debug\IT232_Williams_Unit4_Project_C.exe
-C:\Users\Celena\source\repos\IT232_Williams_Unit4_Project_C\IT232_Williams_Unit4_Project_C\obj\Debug\IT232_Williams_Unit4_Project_C.pdb

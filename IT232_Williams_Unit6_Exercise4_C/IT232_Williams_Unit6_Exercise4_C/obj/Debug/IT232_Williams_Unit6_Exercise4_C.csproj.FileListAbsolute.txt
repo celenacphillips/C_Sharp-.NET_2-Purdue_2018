@@ -1,6 +1,0 @@
-C:\Users\Celena\source\repos\IT232_Williams_Unit6_Exercise4_C\IT232_Williams_Unit6_Exercise4_C\bin\Debug\IT232_Williams_Unit6_Exercise4_C.exe.config
-C:\Users\Celena\source\repos\IT232_Williams_Unit6_Exercise4_C\IT232_Williams_Unit6_Exercise4_C\bin\Debug\IT232_Williams_Unit6_Exercise4_C.exe
-C:\Users\Celena\source\repos\IT232_Williams_Unit6_Exercise4_C\IT232_Williams_Unit6_Exercise4_C\bin\Debug\IT232_Williams_Unit6_Exercise4_C.pdb
-C:\Users\Celena\source\repos\IT232_Williams_Unit6_Exercise4_C\IT232_Williams_Unit6_Exercise4_C\obj\Debug\IT232_Williams_Unit6_Exercise4_C.csproj.CoreCompileInputs.cache
-C:\Users\Celena\source\repos\IT232_Williams_Unit6_Exercise4_C\IT232_Williams_Unit6_Exercise4_C\obj\Debug\IT232_Williams_Unit6_Exercise4_C.exe
-C:\Users\Celena\source\repos\IT232_Williams_Unit6_Exercise4_C\IT232_Williams_Unit6_Exercise4_C\obj\Debug\IT232_Williams_Unit6_Exercise4_C.pdb
